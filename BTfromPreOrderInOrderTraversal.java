@@ -1,5 +1,5 @@
 TC: O(N)
-SC: O(N)
+SC: O(H) // height of the stack
 
 
 /**

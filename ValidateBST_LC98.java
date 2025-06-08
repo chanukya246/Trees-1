@@ -1,5 +1,5 @@
 TC: O(N)
-SC: O(N)
+SC: O(H) // height of the stack
 
 // each node is bounded by 2 values low & high for ex: -infinity & +infinity
 // for left side traversal to the root , low is always -infinity & high is always root.val
